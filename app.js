@@ -15,7 +15,7 @@ const esquema_empleado = new mongoose.Schema({
         type: String
     },
     apellido: {
-        type: String
+        type: String 
     },
     puesto: {
         type: String
